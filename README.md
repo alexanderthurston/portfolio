@@ -7,7 +7,7 @@
   - Weather Application which consults multiple API's for IP address location and weather information dependent upon fetched IP location. 
   - Expresses understanding of Vue.js, API data extractions, JSON, asynchronous programming, dynamically generated webpages, DOM manipulation, JavaScript, HTML, CSS. 
 - Simple Server - https://github.com/alexanderthurston/simple_server
-  -Simple Server used to serve static files from a local drive. Expresses understanding of HTTPS request and responses.  
+  - Simple Server used to serve static files from a local drive. Expresses understanding of HTTPS request and responses.  
 - Factory Fractal Generator - https://github.com/alexanderthurston/fractal_generator
   - Fractal Generator designed using the factory method pattern. Complete usage documentation included within git repo. 
   - Expresses understanding of factory design method and class abstraction.
