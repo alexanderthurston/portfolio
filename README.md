@@ -2,7 +2,10 @@
 ## Notable Projects
 - Parking App Web Application - https://github.com/alexanderthurston/group-7
   - Fully functional web application with planning, development, and testing documentation. I was acting project manager for the entirety of the project. Project was commended upon completion by our professor who will use it as a case study for future semesters. 
-  - Expresses understanding of project management, design, planning, Agile software development, Bootstrap, Django, Python, HTML, CSS, database queries, user authentication.
+  - Expresses understanding of project management, design, planning, Agile software development, MVT design, Bootstrap, Django, Python, HTML, CSS, database queries, user authentication.
+- Contacts Mobile Application - https://github.com/alexanderthurston/contacts_mobile_application
+  - Fully functional contacts application implementing material design elements using Android Studio. 
+  - Expresses understanding of mobile application development, material design, permissions, app architecture, MVC design.
 - Weather Web Application with Vue.js - https://github.com/alexanderthurston/weather_app_vue
   - Weather Application which consults multiple API's for IP address location and weather information dependent upon fetched IP location. 
   - Expresses understanding of Vue.js, API data extractions, JSON, asynchronous programming, dynamically generated webpages, DOM manipulation, JavaScript, HTML, CSS. 
