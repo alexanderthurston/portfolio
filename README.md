@@ -1,8 +1,14 @@
 # Portfolio
 ## Notable Projects
+- Location Based Chat - https://github.com/alexanderthurston/chatmap
+  - Location-based chat application with user authentication, geolocation, simple chat features, and a visually pleasing single page UI.
+  - Expresses understanding of React, Nest.js, Postgres, MVC, Tailwind, geolocation, web sockets, application deployment (due to Heroku free tier service changes, app is no longer hosted).
+- Shopping Cart Application - https://github.com/alexanderthurston/shopping_plus
+  - Shopping cart application with user authentication, intuitive UI, and reactive visual feedback. The application tracks recent shopping items, favorite items, and allows users to input recipes containing multiple items for a recipe quick add feature. 
+  - Expresses understanding of React, Nest.js, Postgres, MVC, Tailwind, application design, application deployment (due to Heroku free tier service changes, app is no longer hosted).
 - Parking App Web Application - https://github.com/alexanderthurston/group-7
-  - Fully functional web application with planning, development, and testing documentation. I was acting project manager for the entirety of the project. Project was commended upon completion by our professor who will use it as a case study for future semesters. 
-  - Expresses understanding of project management, design, planning, Agile software development, MVT design, Bootstrap, Django, Python, HTML, CSS, database queries, user authentication.
+  - Fully functional web application with design, development, and testing documentation. I was acting project manager for the entirety of the project. Project was commended upon completion by our professor who will use it as a project example for future semesters. 
+  - Expresses understanding of project management, application design, Agile software development, MVT design, Bootstrap, Django, Python, HTML, CSS, database queries, user authentication.
 - Contacts Mobile Application - https://github.com/alexanderthurston/contacts_mobile_application
   - Fully functional contacts application implementing material design elements using Android Studio. 
   - Expresses understanding of mobile application development, material design, permissions, app architecture, MVC design.
